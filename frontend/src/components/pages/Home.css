@@ -1,0 +1,27 @@
+.home-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.form-container {
+	padding: 40px;
+}
+
+.home-container h2 {
+	display: inline-block;
+	color: #fff;
+}
+
+.home-button {
+	background-color: #0eb7f4;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+	opacity: 0.9;
+	font-size: 16px;
+	font-family: Montserrat, Arial, Helvetica, sans-serif;
+	border-radius: 10px;
+}
