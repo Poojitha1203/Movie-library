@@ -18,65 +18,9 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-The movie app helps you show the movie you are looking for and also to make a favorite list of your own with the my list feature in it. 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-[![Product Name Screen Shot][product-screenshot]]
-![1](https://user-images.githubusercontent.com/52833031/170580827-fc4d4164-56af-400a-863f-3dc65efafe8f.PNG)
-[![Product Name Screen Shot][product-screenshot]]
-![2](https://user-images.githubusercontent.com/52833031/170580742-836a001b-1014-4dd4-82f2-336798e9615c.PNG)
-[![Product Name Screen Shot][product-screenshot]]
-![3](https://user-images.githubusercontent.com/52833031/171315391-2c4d5a5f-b86d-4496-903d-56ea4b9af217.PNG)
-
-
-
-
-
-
-## Tech Stack
-### Frontend
-* [HTML](https://www.w3schools.com/html/)
-* [CSS](https://www.w3schools.com/css/)
-* [React.js](https://reactjs.org/)
-* [Redux](https://redux.js.org/)
-
-### Backend
-* [Node.js](https://nodejs.org/en/)
-* [Express.js](https://expressjs.com/)
-
-### Database
-* [MongoDb Atlas](https://www.mongodb.com/atlas/database)
-
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -99,7 +43,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at (http://www.omdbapi.com/)
 2. Clone the repo
    ```sh
-   git clone https://github.com/sauravrajleaf/Movies-Library-Website
+   git clone https://github.com/Poojitha1203/Movies-library
    ```
 3. Change your current directory to cloned folder
    ```sh
